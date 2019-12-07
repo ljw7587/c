@@ -18,5 +18,11 @@
     <ClCompile Include="ConsoleApplication1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="study1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="sort.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
