@@ -1,5 +1,3 @@
-
-/*
 #include <stdio.h>
 
 int main(void)
@@ -18,7 +16,7 @@ int main(void)
 
     return 0;
 }
-*/
+
 /*
 \n: 개행(new line) -> 엔터
 \t: 탭   

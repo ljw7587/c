@@ -1,4 +1,2 @@
-﻿  sort.c
-  study1.c
-  코드를 생성하고 있습니다...
-  ConsoleApplication1.vcxproj -> C:\Users\user\Documents\GitHub\c\ConsoleApplication1\Debug\ConsoleApplication1.exe
+﻿study1.obj : error LNK2005: _main이(가) sort.obj에 이미 정의되어 있습니다.
+C:\Users\user\Documents\GitHub\c\ConsoleApplication1\Debug\ConsoleApplication1.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
